@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{E04DC1B6-CFE9-4E90-A890-0CF771D73112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumber", "FibonacciNumber\FibonacciNumber.csproj", "{46142680-F688-4C70-9FC0-2B8DDBC58471}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumber", "FibonacciNumber\FibonacciNumber.csproj", "{46142680-F688-4C70-9FC0-2B8DDBC58471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefangingAnIPAddress", "DefangingAnIPAddress\DefangingAnIPAddress.csproj", "{D9BA9FBA-EECD-44A6-902E-5E47BEA4B324}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{46142680-F688-4C70-9FC0-2B8DDBC58471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46142680-F688-4C70-9FC0-2B8DDBC58471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46142680-F688-4C70-9FC0-2B8DDBC58471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BA9FBA-EECD-44A6-902E-5E47BEA4B324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BA9FBA-EECD-44A6-902E-5E47BEA4B324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BA9FBA-EECD-44A6-902E-5E47BEA4B324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BA9FBA-EECD-44A6-902E-5E47BEA4B324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
